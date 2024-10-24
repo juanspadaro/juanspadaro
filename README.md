@@ -1,10 +1,10 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy Juan Spadaro 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! I'm Juan Spadaro 👨🏻‍💻</h3>
 </p>
 
 <div align="center">
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=juanspadaro&theme=merko&hide_border=false&locale=es)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=juanspadaro&theme=merko&hide_border=false)<br/>
    
 </div>
 

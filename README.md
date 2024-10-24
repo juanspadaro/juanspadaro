@@ -4,7 +4,7 @@
 
 <div align="center">
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=juanspadaro&theme=merko&hide_border=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=juanspadaro&theme=merko&hide_border=false&locale=es)<br/>
    
 </div>
 
